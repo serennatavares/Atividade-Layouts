@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(129, 129, 255);
+}
+.yo{
+    padding: 50;
+    margin: 20;
+    background-color: rgb(255, 255, 119);
+}
+.flex{
+    display: flex;
+}
