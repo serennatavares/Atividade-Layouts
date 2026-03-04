@@ -1,5 +1,6 @@
 .blue {
     background-color: rgb(129, 129, 255);
+    padding: 20px;
 }
 
 .yo {
@@ -43,4 +44,8 @@
 
 .black{
     padding-bottom: 200px;
+}
+
+.white{
+    padding-left: 150px;
 }
